@@ -10,7 +10,7 @@ This is a voice assistant application developed in Flutter for both Android and 
 - Integration with OpenAI's DALL-E to generate AI images based on text inputs.
 - Cross-platform support for Android and iOS devices using Flutter.
 
-##Configuration
+## Configuration
 Add your Firebase configuration to the project.
 
 Place your google-services.json (for Android) and GoogleService-Info.plist (for iOS) in the respective platform folders.
